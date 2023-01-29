@@ -1,6 +1,6 @@
 # Hi 👋 I'm Dairo Cantillo
 
-<p><em>Systems Engineer<a href="http://www.unb.br">Uversity Of The Magdalena</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Systems Engineer<a href="https://www.unimagdalena.edu.co/">Uversity Of The Magdalena</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 Systems engineering with experience in Frontend and Backend web development. Passionate about technology, which motivates me in my free time to learn the new technologies that are appearing, allowing me to be at the forefront of the market and also be competent in my work area.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -17,10 +17,6 @@ Systems engineering with experience in Frontend and Backend web development. Pas
 <img src="https://img.shields.io/badge/-Django-black?style=flat&logo=django&logoColor=blue"> 
 
 
-
-## Redes & Contact
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/deca)<!--[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)-->[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/dca.py/)
 
 
 
