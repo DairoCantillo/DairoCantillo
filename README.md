@@ -14,6 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dairocantillo&show_icons=true&theme=radical&include_all_commits=true"/>
 
   <br>
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,redux,jest,emotion,nextjs,html,css,sass,tailwind,aws,docker,linux,git,python,flask,javascript,typescript,nodejs&theme=dark&perline=9" />
   </a>
