@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=dairocantillo&label=Profile%20views&color=D83A7C&style=flat" alt="dairocantillo" />
 
 <img src="https://github.com/DairoCantillo/DairoCantillo/blob/main/images/banner.png">
-<h2 style="color: #D83A7C;">Hi, I'm Dairo!</h2>
+<h2>Hi, I'm Dairo!</h2>
 <p>
     Passionate about technology, which motivates me in my free time to learn about emerging new technologies. Feel free to reach out for any projects or questions. I'm always ready to collaborate
 </em></p>
