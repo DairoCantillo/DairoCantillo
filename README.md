@@ -7,6 +7,7 @@
 </em></p>
 
 [![GitHub Dairo](https://img.shields.io/github/followers/dairocantillo?label=follow&style=social)](https://github.com/dairocantillo)
+[![Twitter Dairo](https://img.shields.io/twitter/follow/DecaUwU?label=Follow)](https://twitter.com/DecaUwU)
 
 
 
@@ -23,6 +24,11 @@
 
 ## Socials
 <div align="center">
-    <a href="https://linkedin.com/in/Deca" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="gregory-james" height="50" width="50" /></a>
+    <a href="https://linkedin.com/in/Deca" target="blank">
+        <img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="linkedin" height="50" width="50" />
+    </a>
+    <a href="https://twitter.com/DecaUwU" target="blank">
+        <img align="center" src="https://img.icons8.com/?size=100&id=6Fsj3rv2DCmG&format=png&color=000000" alt="twitter" height="50" width="50" />
+    </a>
 
 </div>
