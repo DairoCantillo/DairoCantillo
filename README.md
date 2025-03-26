@@ -7,8 +7,6 @@
 </em></p>
 
 [![GitHub Dairo](https://img.shields.io/github/followers/dairocantillo?label=follow&style=social)](https://github.com/dairocantillo)
-[![Twitter Dairo](https://img.shields.io/twitter/follow/DecaUwU?label=Follow)](https://twitter.com/DecaUwU)
-
 
 
 <div align="center">
